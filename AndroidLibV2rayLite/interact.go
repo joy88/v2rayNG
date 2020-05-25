@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/2dust/AndroidLibV2rayLite/CoreI"
+	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/CoreI"
 	"github.com/2dust/AndroidLibV2rayLite/Process/Escort"
 	"github.com/2dust/AndroidLibV2rayLite/VPN"
 	"github.com/2dust/AndroidLibV2rayLite/shippedBinarys"
