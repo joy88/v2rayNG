@@ -1,6 +1,6 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/2dust/AndroidLibV2rayLite v0.0.0-20200409033254-386c9b663773 h1:ypb1Wm679oSmp8cytzTL9FAwAaRDjr3emS/uRgVlUko=
-github.com/2dust/AndroidLibV2rayLite v0.0.0-20200409033254-386c9b663773/go.mod h1:ij8GEKbI7pK7R8DtPrhBSo/RO9iueM96N0ko2H9DtEg=
+github.com/2dust/v2rayNG v0.0.0-20200412020452-c105d84b35b3 h1:NshgAbTPJl/H4rzynqy5CEuBLEQ0TvAKv6RcV2kqsQQ=
 github.com/2dust/v2rayNG v0.0.0-20200412020452-c105d84b35b3/go.mod h1:amnceaQbf/PeLE5F7wf4yD5PRyBBZdPOla9wQdBdZx4=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=

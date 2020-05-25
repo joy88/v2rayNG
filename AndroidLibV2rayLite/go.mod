@@ -3,9 +3,8 @@ module github.com/joy88/v2rayNG/AndroidLibV2rayLite
 go 1.14
 
 require (
-	github.com/2dust/v2rayNG v0.0.0-20200412020452-c105d84b35b3
 	golang.org/x/mobile v0.0.0-20200329125638-4c31acba0007
-	golang.org/x/sys v0.0.0-20200523222454-059865788121 // indirect
+	golang.org/x/sys v0.0.0-20200523222454-059865788121
 	v2ray.com/core v4.19.1+incompatible
 )
 

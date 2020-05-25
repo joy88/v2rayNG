@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 	
-	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/CoreI"
+	"github.com/joy88/v2rayNG/AndroidLibV2rayLite/CoreI"
 )
 
 type FirstRun struct {
