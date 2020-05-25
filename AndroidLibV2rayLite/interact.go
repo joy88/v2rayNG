@@ -9,9 +9,9 @@ import (
 	"sync"
 
 	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/CoreI"
-	"github.com/2dust/AndroidLibV2rayLite/Process/Escort"
-	"github.com/2dust/AndroidLibV2rayLite/VPN"
-	"github.com/2dust/AndroidLibV2rayLite/shippedBinarys"
+	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/Process/Escort"
+	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/VPN"
+	"github.com/2dust/v2rayNG/AndroidLibV2rayLite/shippedBinarys"
 	mobasset "golang.org/x/mobile/asset"
 
 	v2core "v2ray.com/core"
